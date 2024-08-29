@@ -1,6 +1,0 @@
-dill
-fastapi
-numpy
-pandas 
-pydantic
-scikit-learn
