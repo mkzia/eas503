@@ -1,4 +1,4 @@
-# EAS503 Spring 2023
+# EAS503 Fall 2024
 
 ## Lecture Notes
 Lecture notes are in week# folders.
