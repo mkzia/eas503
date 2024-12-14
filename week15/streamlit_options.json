@@ -1,0 +1,45 @@
+{
+  "slider_fields": {
+    "longitude": [
+      -125,
+      -114
+    ],
+    "latitude": [
+      32,
+      42
+    ],
+    "housing_median_age": [
+      1,
+      52
+    ],
+    "total_rooms": [
+      2,
+      39320
+    ],
+    "total_bedrooms": [
+      1,
+      6445
+    ],
+    "population": [
+      3,
+      35682
+    ],
+    "households": [
+      1,
+      6082
+    ],
+    "median_income": [
+      0,
+      16
+    ]
+  },
+  "single_select_fields": {
+    "ocean_proximity": [
+      "<1H OCEAN",
+      "INLAND",
+      "ISLAND",
+      "NEAR BAY",
+      "NEAR OCEAN"
+    ]
+  }
+}
