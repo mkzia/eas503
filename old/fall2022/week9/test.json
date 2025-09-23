@@ -1,0 +1,10 @@
+[
+    {
+        "major": "Math",
+        "student_name": "John Doe"
+    },
+    {
+        "major": "Chemistry",
+        "student_name": "Jane Doe"
+    }
+]

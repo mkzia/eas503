@@ -1,0 +1,7 @@
+last_name  first_name  username     exam1  exam2  exam3
+---------  ----------  -----------  -----  -----  -----
+Larson     Melissa     larsonmeli   24     89     31   
+Novak      Melissa     novakmeli    77     3      38   
+Sawyer     Wendy       sawyerwend   81     59     30   
+Schultz    Marcus      schultzmarc  59     29     67   
+Vega       Nicholas    veganich     64     12     95   

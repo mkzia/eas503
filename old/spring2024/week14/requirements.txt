@@ -1,0 +1,9 @@
+ipython
+jupyter
+matplotlib
+mlflow
+pandas
+requests
+seaborn
+streamlit
+ydata-profiling

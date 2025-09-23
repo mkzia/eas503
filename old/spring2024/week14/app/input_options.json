@@ -1,0 +1,41 @@
+{
+  "longitude": [
+    -124.3,
+    -114.31
+  ],
+  "latitude": [
+    32.55,
+    41.92
+  ],
+  "housing_median_age": [
+    1.0,
+    52.0
+  ],
+  "total_rooms": [
+    6.0,
+    37937.0
+  ],
+  "total_bedrooms": [
+    2.0,
+    5471.0
+  ],
+  "population": [
+    3.0,
+    35682.0
+  ],
+  "households": [
+    2.0,
+    5189.0
+  ],
+  "median_income": [
+    0.4999,
+    15.0001
+  ],
+  "ocean_proximity": [
+    "<1H OCEAN",
+    "INLAND",
+    "ISLAND",
+    "NEAR BAY",
+    "NEAR OCEAN"
+  ]
+}

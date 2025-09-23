@@ -1,0 +1,6 @@
+*/mlruns/
+*/install-pyenv*
+*/mlartifacts/
+.ipynb*
+%SystemDrive%/
+"*:Zone.Identifier"

@@ -1,0 +1,10 @@
+student1,90,70,98
+student2,99,98,91
+student3,93,94,78
+student4,75,81,87
+student5,92,82,78
+student6,82,83,80
+student7,97,98,82
+student8,81,90,92
+student9,71,81,90
+student10,71,77,84

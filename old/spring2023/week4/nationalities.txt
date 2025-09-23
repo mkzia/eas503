@@ -1,0 +1,161 @@
+Nationality
+Afghanistan
+Albania
+Algeria
+Angola
+Antigua & Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bolivia
+Bosnia Herzegovina
+Brazil
+Bulgaria
+Burkina Faso
+Cameroon
+Canada
+Cape Verde
+Central African Rep.
+Chad
+Chile
+China PR
+Chinese Taipei
+Colombia
+Comoros
+Congo
+Costa Rica
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+DR Congo
+Denmark
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+FIFA16_NationName_215
+FYR Macedonia
+Faroe Islands
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Iran
+Iraq
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Kazakhstan
+Kenya
+Korea DPR
+Korea Republic
+Kosovo
+Kuwait
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Mali
+Malta
+Mauritania
+Mauritius
+Mexico
+Moldova
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Namibia
+Netherlands
+New Zealand
+Niger
+Nigeria
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Ireland
+Romania
+Russia
+San Marino
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Sierra Leone
+Slovakia
+Slovenia
+Somalia
+South Africa
+Spain
+St Kitts Nevis
+St Lucia
+Suriname
+Sweden
+Switzerland
+Syria
+São Tomé & Príncipe
+Tanzania
+Timor-Leste
+Togo
+Trinidad & Tobago
+Tunisia
+Turkey
+Uganda
+Ukraine
+United States
+Uruguay
+Uzbekistan
+Venezuela
+Wales
+Zambia
+Zimbabwe
